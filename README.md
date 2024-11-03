@@ -1,6 +1,6 @@
 ## InsaniquariumWEB
 
-![Large Guppy] (https://i.imgur.com/hT1mjQV.png)
+![Large Guppy](https://i.imgur.com/hT1mjQV.png)
 
 Adds 20+ Insaniquarium fish and aliens to WEBFISHING! All fish are found in lakes and rivers, and all aliens in the ocean.
 
