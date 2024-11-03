@@ -1,51 +1,52 @@
 ## InsaniquariumWEB
-Adds 20+ Insaniquarium fish and aliens to WEBFISHING!
 
-All fish are found in lakes and rivers, and all aliens in the ocean.
+![Large Guppy] (https://i.imgur.com/hT1mjQV.png)
+
+Adds 20+ Insaniquarium fish and aliens to WEBFISHING! All fish are found in lakes and rivers, and all aliens in the ocean.
 
 You can also find this mod at it's [GitHub](https://github.com/MonkeyMan1242/InsaniquariumWEB).
 
 <details>
 <summary>List of fish</summary>
 
-| Name | Location |
+| Name | Rarity |
 | --- | --- |
-| Small Guppy | <p>Lake</p> |
-| Medium Guppy | <p>Lake</p> |
-| Large Guppy | <p>Lake</p> |
-| King Guppy | <p>Lake</p> |
-| Carnivore | <p>Lake</p> |
-| Ultravore | <p>Lake</p> |
-| Starcatcher | <p>Lake</p> |
-| Guppycruncher | <p>Lake</p> |
-| Beetlemuncher | <p>Lake</p> |
+| Small Guppy | <p>Common</p> |
+| Medium Guppy | <p>Common</p> |
+| Large Guppy | <p>Common</p> |
+| King Guppy | <p>Very Rare</p> |
+| Carnivore | <p>Uncommon</p> |
+| Ultravore | <p>Rare</p> |
+| Starcatcher | <p>Uncommon</p> |
+| Guppycruncher | <p>Uncommon</p> |
+| Beetlemuncher | <p>Uncommon</p> |
 
 </details>
 
 <details>
 <summary>List of aliens</summary>
 
-| Name | Location |
+| Name | Rarity |
 | --- | --- |
-| Mini Sylvester | <p>Ocean</p> |
-| Sylvester | <p>Ocean</p> |
-| Balrog | <p>Ocean</p> |
-| Pointy Bilaterus | <p>Ocean</p> |
-| Round Bilaterus | <p>Ocean</p> |
-| Gus | <p>Ocean</p> |
-| Psychosquid | <p>Ocean</p> |
+| Mini Sylvester | <p>Common</p> |
+| Sylvester | <p>Uncommon</p> |
+| Balrog | <p>Very Rare</p> |
+| Pointy Bilaterus | <p>Rare</p> |
+| Round Bilaterus | <p>Rare</p> |
+| Gus | <p>Very Rare</p> |
+| Psychosquid | <p>Very Rare</p> |
 
 </details>
 
 <details>
 <summary>SPOILERS!! List of special fish</summary>
 
-| Name | Location |
+| Name | Rarity |
 | --- | --- |
-| Santa | <p>Lake</p> |
-| Rocky | <p>Lake</p> |
-| Ludwig | <p>Lake</p> |
-| Kilgore | <p>Lake</p> |
+| Santa | <p>Very Rare</p> |
+| Rocky | <p>Very Rare</p> |
+| Ludwig | <p>Very Rare</p> |
+| Kilgore | <p>Extremely Rare!</p> |
 
 </details>
 
