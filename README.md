@@ -8,44 +8,44 @@ You can also find this mod at it's [GitHub](https://github.com/MonkeyMan1242/Ins
 <details>
 <summary>List of fish</summary>
 
-| Name | Data |
+| Name | Location |
 | --- | --- |
-| Small Guppy | <p>Location: Lake</p> |
-| Medium Guppy | <p>Location: Lake</p> |
-| Large Guppy | <p>Location: Lake</p> |
-| King Guppy | <p>Location: Lake</p> |
-| Carnivore | <p>Location: Lake</p> |
-| Ultravore | <p>Location: Lake</p> |
-| Starcatcher | <p>Location: Lake</p> |
-| Guppycruncher | <p>Location: Lake</p> |
-| Beetlemuncher | <p>Location: Lake</p> |
+| Small Guppy | <p>Lake</p> |
+| Medium Guppy | <p>Lake</p> |
+| Large Guppy | <p>Lake</p> |
+| King Guppy | <p>Lake</p> |
+| Carnivore | <p>Lake</p> |
+| Ultravore | <p>Lake</p> |
+| Starcatcher | <p>Lake</p> |
+| Guppycruncher | <p>Lake</p> |
+| Beetlemuncher | <p>Lake</p> |
 
 </details>
 
 <details>
 <summary>List of aliens</summary>
 
-| Name | Data |
+| Name | Location |
 | --- | --- |
-| Mini Sylvester | <p>Location: Ocean</p> |
-| Sylvester | <p>Location: Ocean</p> |
-| Balrog | <p>Location: Ocean</p> |
-| Pointy Bilaterus | <p>Location: Ocean</p> |
-| Round Bilaterus | <p>Location: Ocean</p> |
-| Gus | <p>Location: Ocean</p> |
-| Psychosquid | <p>Location: Ocean</p> |
+| Mini Sylvester | <p>Ocean</p> |
+| Sylvester | <p>Ocean</p> |
+| Balrog | <p>Ocean</p> |
+| Pointy Bilaterus | <p>Ocean</p> |
+| Round Bilaterus | <p>Ocean</p> |
+| Gus | <p>Ocean</p> |
+| Psychosquid | <p>Ocean</p> |
 
 </details>
 
 <details>
 <summary>SPOILERS!! List of special fish</summary>
 
-| Name | Data |
+| Name | Location |
 | --- | --- |
-| Santa | <p>Location: Lake</p> |
-| Rocky | <p>Location: Lake</p> |
-| Ludwig | <p>Location: Lake</p> |
-| Kilgore | <p>Location: Lake</p> |
+| Santa | <p>Lake</p> |
+| Rocky | <p>Lake</p> |
+| Ludwig | <p>Lake</p> |
+| Kilgore | <p>Lake</p> |
 
 </details>
 
