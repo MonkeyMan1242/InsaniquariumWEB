@@ -1,7 +1,9 @@
 ## InsaniquariumWEB
 Adds 20+ Insaniquarium fish and aliens to WEBFISHING!
 
-You can also find this mod at it's [GitHub](https://github.com/MonkeyMan1242/InsaniquariumWEB)
+All fish are found in lakes and rivers, and all aliens in the ocean.
+
+You can also find this mod at it's [GitHub](https://github.com/MonkeyMan1242/InsaniquariumWEB).
 
 <details>
 <summary>List of fish</summary>
@@ -32,7 +34,7 @@ You can also find this mod at it's [GitHub](https://github.com/MonkeyMan1242/Ins
 </details>
 
 <details>
-<summary>SPOILERS!! Special fish</summary>
+<summary>SPOILERS!! List of special fish</summary>
 | Name | Data |
 | --- | --- |
 | Santa | <p>Location: Lake</p>  |
