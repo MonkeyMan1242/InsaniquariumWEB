@@ -1,10 +1,10 @@
 ## InsaniquariumWEB
 Adds 20+ Insaniquarium fish and aliens to WEBFISHING!
 
-You can also find this mod at it's [Home Page](https://github.com/MonkeyMan1242/InsaniquariumWEB)
+You can also find this mod at it's [GitHub](https://github.com/MonkeyMan1242/InsaniquariumWEB)
 
 <details>
-<summary>List of fish</summary>  
+<summary>List of fish</summary>
 | Name | Data |
 | --- | --- |
 | Small Guppy | <p>Location: Lake</p>  |
@@ -19,7 +19,7 @@ You can also find this mod at it's [Home Page](https://github.com/MonkeyMan1242/
 </details>
 
 <details>
-<summary>List of aliens</summary>  
+<summary>List of aliens</summary>
 | Name | Data |
 | --- | --- |
 | Mini Sylvester | <p>Location: Ocean</p>  |
@@ -32,7 +32,7 @@ You can also find this mod at it's [Home Page](https://github.com/MonkeyMan1242/
 </details>
 
 <details>
-<summary>List of aliens</summary>  
+<summary>SPOILERS!! Special fish</summary>
 | Name | Data |
 | --- | --- |
 | Santa | <p>Location: Lake</p>  |
