@@ -1,0 +1,10 @@
+{
+    "name": "InsaniquariumWEB",
+    "version_number": "1.0.0",
+    "website_url": "https://github.com/MonkeyMan1242/InsaniquariumWEB",
+    "description": "Adds 20+ Insaniquarium fish and aliens to WEBFISHING!",
+    "dependencies": [
+        "NotNet-GDWeave-2.0.12",
+        "Sulayre-Lure-3.1.3"
+    ]
+}
