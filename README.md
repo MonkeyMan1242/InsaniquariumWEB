@@ -2,9 +2,9 @@
 
 ![Large Guppy](https://i.imgur.com/hT1mjQV.png)
 
-Adds 20+ Insaniquarium fish and aliens to WEBFISHING! All fish are found in lakes and rivers, and all aliens in the ocean.
+Adds 20+ Insaniquarium fish and aliens to WEBFISHING! Can you catch/defeat the insanely rare Cyrax? Fish are found in lakes and rivers, and aliens in the ocean.
 
-You can also find this mod at it's [GitHub](https://github.com/MonkeyMan1242/InsaniquariumWEB).
+[GitHub](https://github.com/MonkeyMan1242/InsaniquariumWEB)
 
 <details>
 <summary>List of fish</summary>
@@ -20,6 +20,7 @@ You can also find this mod at it's [GitHub](https://github.com/MonkeyMan1242/Ins
 | Starcatcher | <p>Uncommon</p> |
 | Guppycruncher | <p>Uncommon</p> |
 | Beetlemuncher | <p>Uncommon</p> |
+| Breeder | <p>Uncommon</p> |
 
 </details>
 
@@ -35,6 +36,20 @@ You can also find this mod at it's [GitHub](https://github.com/MonkeyMan1242/Ins
 | Round Bilaterus | <p>Rare</p> |
 | Gus | <p>Very Rare</p> |
 | Psychosquid | <p>Very Rare</p> |
+| Destructor | <p>Very Rare</p> |
+| Ulysses | <p>Very Rare</p> |
+| Cyrax | <p>Insanely Rare!!</p>
+
+</details>
+
+<details>
+<summary>list of trash</summary>
+
+| Name | Rarity |
+| --- | --- |
+| Wiffle Ball | <p>Common</p> |
+| Soccer Ball | <p>Common</p> |
+| Beach Ball | <p>Common</p> |
 
 </details>
 
@@ -49,6 +64,8 @@ You can also find this mod at it's [GitHub](https://github.com/MonkeyMan1242/Ins
 | Kilgore | <p>Extremely Rare!</p> |
 
 </details>
+
+Click [here](https://github.com/MonkeyMan1242/InsaniquariumWEB/blob/main/fish.csv) for a graph with each fish's specific stats.
 
 ### Credits
 This mod was created by MonkeyMan1242 using [Hatchery](https://github.com/coolbot100s/Hatchery) v1.2.0

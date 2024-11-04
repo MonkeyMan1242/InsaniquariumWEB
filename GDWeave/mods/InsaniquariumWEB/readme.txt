@@ -1,6 +1,8 @@
 Thanks for playing with InsaniquariumWEB!
-Adds 20+ Insaniquarium fish and aliens to WEBFISHING!
-Version: 1.1.0
+
+Adds 20+ Insaniquarium fish and aliens to WEBFISHING! Can you catch/defeat the insanely rare Cyrax? Fish are found in lakes and rivers, and aliens in the ocean.
+
+Version: 1.2.0
 Authors: MonkeyMan1242
 https://github.com/MonkeyMan1242/InsaniquariumWEB
 
