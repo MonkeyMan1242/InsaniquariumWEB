@@ -1,28 +1,29 @@
 item_name,item_description,catch_blurb,loot_table,tier,catch_difficulty,average_size,loot_weight,sell_value,obtain_xp,generate_worth,rare,alive
-Small Guppy,Eats fish food,Your first friend.,lake,0,1.2,60,0.8,12,25,TRUE,FALSE,TRUE
-Medium Guppy,Eats fish food,Growing big and strong!,lake,0,1.4,60,0.7,14,30,TRUE,FALSE,TRUE
-Large Guppy,Eats fish food,All grown up.,lake,0,1.6,60,0.6,16,35,TRUE,FALSE,TRUE
-King Guppy,Eats fish food,A majestic fellow!,lake,1,3,60,0.15,150,120,TRUE,TRUE,TRUE
-Carnivore,Eats guppies,A guppy's worst nightmare.,lake,1,3,60,0.4,35,60,TRUE,FALSE,TRUE
-Ultravore,Eats carnivores,The king of the fish tank.,lake,2,5,120,0.2,50,90,TRUE,FALSE,TRUE
-Santa,Special fish,Ho ho ho!,lake,0,5,60,0.05,300,200,TRUE,TRUE,TRUE
-Mini Sylvester,Alien,Don't feed this little guy after midnight!,ocean,0,2,60,0.6,35,45,TRUE,FALSE,TRUE
-Sylvester,Alien,This definitely isn't a fish…,ocean,1,4,120,0.3,35,90,TRUE,FALSE,TRUE
-Balrog,Alien,This definitely isn't a fish…,ocean,1,4,120,0.15,75,110,TRUE,TRUE,TRUE
-Pointy Bilaterus,Alien,This definitely isn't a fish…,ocean,1,3,60,0.2,80,80,TRUE,FALSE,TRUE
-Round Bilaterus,Alien,This definitely isn't a fish…,ocean,1,3,60,0.2,80,80,TRUE,FALSE,TRUE
-Starcatcher,Eats stars,"Aww, look at this adorable little guy!",lake,1,2,60,0.4,35,50,TRUE,FALSE,TRUE
-Guppycruncher,Eats guppies,How does this thing eat?,lake,1,2,60,0.4,35,60,TRUE,FALSE,TRUE
-Beetlemuncher,Eats beetles,Those eyes are piercing…,lake,1,2,60,0.4,35,70,TRUE,FALSE,TRUE
-Gus,Alien,This definitely isn't a fish…,ocean,2,5,120,0.1,100,120,TRUE,TRUE,TRUE
-Psychosquid,Alien,Your worst nightmare.,ocean,2,7,120,0.1,100,150,TRUE,TRUE,TRUE
-Rocky,Special fish,Last name Balboa.,lake,1,5,60,0.05,300,200,TRUE,TRUE,TRUE
-Ludwig,Special fish,Not to be confused with the YouTuber.,lake,1,3,60,0.1,200,120,TRUE,TRUE,TRUE
-Kilgore,Special fish,It won't stop singing…,lake,2,5,120,0.03,200,200,TRUE,TRUE,TRUE
-Ulysses,Alien,This definitely isn't a fish…,ocean,2,5,120,0.1,100,120,TRUE,TRUE,TRUE
-Destructor,Alien,This DEFINITELY isn't a fish…,ocean,2,4,120,0.1,100,110,TRUE,TRUE,TRUE
+Guppy Jr.,Eats fish food,Your first friend.,lake,0,1.2,60,0.8,8,25,TRUE,FALSE,TRUE
+Star Guppy,Eats fish food,"Woah, I can see through it!",lake,0,2,60,0.3,25,60,TRUE,FALSE,TRUE
+Guppy,Eats fish food,All grown up.,lake,0,1.6,60,0.6,12,35,TRUE,FALSE,TRUE
+King Guppy,Eats fish food,A majestic fellow!,lake,1,3,60,0.15,100,120,TRUE,FALSE,TRUE
+Carnivore,Eats guppies,A guppy's worst nightmare.,lake,1,3,60,0.4,25,60,TRUE,FALSE,TRUE
+Ultravore,Eats carnivores,The king of the fish tank.,lake,2,5,120,0.2,35,90,TRUE,FALSE,TRUE
+Santa,Special fish,Ho ho ho!,lake,0,5,60,0.05,200,200,TRUE,TRUE,TRUE
+Mini Sylvester,Alien,Don't feed this little guy after midnight!,ocean,0,2,60,0.6,25,45,TRUE,FALSE,TRUE
+Sylvester,Alien,This definitely isn't a fish…,ocean,1,3,120,0.3,25,90,TRUE,FALSE,TRUE
+Balrog,Alien,This definitely isn't a fish…,ocean,1,4,120,0.15,50,110,TRUE,FALSE,TRUE
+Pointy Bilaterus,Alien,This definitely isn't a fish…,ocean,1,3,60,0.2,40,80,TRUE,FALSE,TRUE
+Round Bilaterus,Alien,This definitely isn't a fish…,ocean,1,3,60,0.2,40,80,TRUE,FALSE,TRUE
+Starcatcher,Eats stars,"Aww, look at this adorable little guy!",lake,1,2,60,0.4,25,50,TRUE,FALSE,TRUE
+Guppycruncher,Eats guppies,How does this thing eat?,lake,1,2,60,0.4,25,60,TRUE,FALSE,TRUE
+Beetlemuncher,Eats beetles,Those eyes are piercing…,lake,1,2,60,0.4,25,70,TRUE,FALSE,TRUE
+Gus,Alien,This definitely isn't a fish…,ocean,2,5,120,0.1,80,120,TRUE,FALSE,TRUE
+Psychosquid (Red),Alien,Your worst nightmare.,ocean,2,7,120,0.1,80,150,TRUE,FALSE,TRUE
+Rocky,Special fish,Last name Balboa.,lake,1,5,60,0.05,200,200,TRUE,TRUE,TRUE
+Ludwig,Special fish,Not to be confused with the YouTuber.,lake,1,3,60,0.1,120,120,TRUE,TRUE,TRUE
+Kilgore,Special fish,It won't stop singing…,lake,2,5,120,0.03,150,200,TRUE,TRUE,TRUE
+Ulysses,Alien,This definitely isn't a fish…,ocean,2,5,120,0.1,80,120,TRUE,FALSE,TRUE
+Destructor,Alien,This DEFINITELY isn't a fish…,ocean,2,4,120,0.1,80,110,TRUE,FALSE,TRUE
 Cyrax,Alien mastermind,"Eww, creepy…",rain,2,7,120,0.03,200,300,TRUE,TRUE,TRUE
-Breeder,Eats fish food,DAMN BOI SHE THI--,lake,1,2,60,0.4,35,50,TRUE,FALSE,TRUE
+Breeder,Eats fish food,DAMN BOI SHE THI--,lake,1,2,60,0.4,25,50,TRUE,FALSE,TRUE
 Wiffle Ball,Don't Litter!,Who put this in here...,water_trash,0,1,60,0.5,5,30,FALSE,FALSE,FALSE
 Soccer Ball,Don't Litter!,Who put this in here...,water_trash,0,1,60,0.5,5,30,FALSE,FALSE,FALSE
 Beach Ball,Don't Litter!,Who put this in here...,water_trash,0,1,60,0.5,5,30,FALSE,FALSE,FALSE
+Psychosquid (Blue),Alien,Why so blue Psychosquid?,ocean,1,5,120,0.1,70,120,TRUE,FALSE,TRUE

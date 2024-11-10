@@ -1,0 +1,14 @@
+{
+    "Id": "insaniquariumweb",
+    "PackPath": "insaniquariumweb.pck",
+    "Dependencies": [
+        "Sulayre.Lure"
+    ],
+    "Metadata": {
+        "Name": "InsaniquariumWEB",
+        "Author": "MonkeyMan1242",
+        "Description": "Adds 20+ Insaniquarium fish and aliens to WEBFISHING! Can you catch/defeat the insanely rare Cyrax? Fish are found in lakes and rivers, and aliens in the ocean.",
+        "Version": "1.3.0",
+        "Homepage": "https://github.com/MonkeyMan1242/InsaniquariumWEB"
+    }
+}
