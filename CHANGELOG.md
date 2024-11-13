@@ -1,3 +1,7 @@
+## Update 1.4.0
+
+- 2 new **animated** fish
+
 ## Update 1.3.0
 
 **Fixes to basically every sprite in the entire mod!**

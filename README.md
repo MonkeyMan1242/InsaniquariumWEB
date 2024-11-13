@@ -11,16 +11,18 @@ Adds 20+ Insaniquarium fish and aliens to WEBFISHING! Can you catch/defeat the i
 
 | Name | Rarity |
 | --- | --- |
-| Guppy Jr. | <p>Common</p> |
-| Guppy | <p>Common</p> |
-| Star Guppy | <p>Uncommon</p> |
-| King Guppy | <p>Very Rare</p> |
-| Carnivore | <p>Uncommon</p> |
-| Ultravore | <p>Rare</p> |
-| Starcatcher | <p>Uncommon</p> |
-| Guppycruncher | <p>Uncommon</p> |
-| Beetlemuncher | <p>Uncommon</p> |
-| Breeder | <p>Uncommon</p> |
+| Guppy Jr. | Common |
+| Guppy | Common |
+| Star Guppy | Uncommon |
+| King Guppy | Very Rare |
+| \*Rainbow Guppy | Uncommon |
+| Carnivore | Uncommon |
+| Ultravore | Rare |
+| Starcatcher | Uncommon |
+| Guppycruncher | Uncommon |
+| Beetlemuncher | Uncommon |
+| Breeder | Uncommon |
+\*Can only be caught in the rain
 
 </details>
 
@@ -29,17 +31,18 @@ Adds 20+ Insaniquarium fish and aliens to WEBFISHING! Can you catch/defeat the i
 
 | Name | Rarity |
 | --- | --- |
-| Mini Sylvester | <p>Common</p> |
-| Sylvester | <p>Uncommon</p> |
-| Balrog | <p>Very Rare</p> |
-| Gus | <p>Very Rare</p> |
-| Destructor | <p>Very Rare</p> |
-| Ulysses | <p>Very Rare</p> |
-| Psychosquid (Red) | <p>Very Rare</p> |
-| Psychosquid (Blue) | <p>Very Rare</p> |
-| Pointy Bilaterus | <p>Rare</p> |
-| Round Bilaterus | <p>Rare</p> |
-| Cyrax | <p>Insanely Rare!!</p>
+| Mini Sylvester | Common |
+| Sylvester | Uncommon |
+| Balrog | Very Rare |
+| Gus | Very Rare |
+| Destructor | Very Rare |
+| Ulysses | Very Rare |
+| Psychosquid (Red) | Very Rare |
+| Psychosquid (Blue) | Very Rare |
+| Pointy Bilaterus | Rare |
+| Round Bilaterus | Rare |
+| \*Cyrax | Insanely Rare!! |
+\*Can only be caught in the rain
 
 </details>
 
@@ -48,9 +51,9 @@ Adds 20+ Insaniquarium fish and aliens to WEBFISHING! Can you catch/defeat the i
 
 | Name | Rarity |
 | --- | --- |
-| Wiffle Ball | <p>Common</p> |
-| Soccer Ball | <p>Common</p> |
-| Beach Ball | <p>Common</p> |
+| Wiffle Ball | Common |
+| Soccer Ball | Common |
+| Beach Ball | Common |
 
 </details>
 
@@ -59,10 +62,12 @@ Adds 20+ Insaniquarium fish and aliens to WEBFISHING! Can you catch/defeat the i
 
 | Name | Rarity |
 | --- | --- |
-| Santa | <p>Very Rare</p> |
-| Rocky | <p>Very Rare</p> |
-| Ludwig | <p>Very Rare</p> |
-| Kilgore | <p>Extremely Rare!</p> |
+| Santa | Very Rare |
+| Rocky | Very Rare |
+| Ludwig | Very Rare |
+| Kilgore | Extremely Rare! |
+| \*Johnny V. | Extremely Rare! |
+\*Can only be caught in the rain
 
 </details>
 
@@ -80,7 +85,7 @@ Use [Hook, Line, & Sinker](https://thunderstore.io/c/webfishing/p/Pyoid/Hook_Lin
 
 ## Links
 
-[GitHub](https://github.com/MonkeyMan1242/InsaniquariumWEB) - [Thunderstore](https://thunderstore.io/c/webfishing/p/MonkeyMan1242/InsaniquariumWEB/)
+[GitHub](https://github.com/MonkeyMan1242/InsaniquariumWEB) | [Thunderstore](https://thunderstore.io/c/webfishing/p/MonkeyMan1242/InsaniquariumWEB/)
 
 ## Credits
 
@@ -90,4 +95,4 @@ Use [Hook, Line, & Sinker](https://thunderstore.io/c/webfishing/p/Pyoid/Hook_Lin
 - Sulayre for [Lure](https://github.com/Sulayre/WebfishingLure)
 - lamedev for [WEBFISHING](https://store.steampowered.com/app/3146520/WEBFISHING/)
 - [Insaniquarium Wiki](https://insaniquarium.fandom.com/wiki/Insaniquarium_Wiki) for the original transparent images I used to make the sprites
-- PopCap Games for making Insaniquarium
+- PopCap Games for [Insaniquarium](https://store.steampowered.com/app/3320/Insaniquarium_Deluxe/)
