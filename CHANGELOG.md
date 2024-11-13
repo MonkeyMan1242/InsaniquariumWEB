@@ -1,3 +1,7 @@
+## Update 1.4.1
+
+- Fixed new fish from 1.4.0
+
 ## Update 1.4.0
 
 - 2 new **animated** fish
