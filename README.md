@@ -22,6 +22,7 @@ Adds 20+ Insaniquarium fish and aliens to WEBFISHING! Can you catch/defeat the i
 | Guppycruncher | Uncommon |
 | Beetlemuncher | Uncommon |
 | Breeder | Uncommon |
+
 \*Can only be caught in the rain
 
 </details>
@@ -42,6 +43,7 @@ Adds 20+ Insaniquarium fish and aliens to WEBFISHING! Can you catch/defeat the i
 | Pointy Bilaterus | Rare |
 | Round Bilaterus | Rare |
 | \*Cyrax | Insanely Rare!! |
+
 \*Can only be caught in the rain
 
 </details>
@@ -67,6 +69,7 @@ Adds 20+ Insaniquarium fish and aliens to WEBFISHING! Can you catch/defeat the i
 | Ludwig | Very Rare |
 | Kilgore | Extremely Rare! |
 | \*Johnny V. | Extremely Rare! |
+
 \*Can only be caught in the rain
 
 </details>
